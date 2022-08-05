@@ -1,0 +1,27 @@
+{
+  "name": "hs-stripe-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewblu421/hs-stripe-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewblu421/hs-stripe-app/issues"
+  },
+  "homepage": "https://github.com/matthewblu421/hs-stripe-app#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "stripe": "^10.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
