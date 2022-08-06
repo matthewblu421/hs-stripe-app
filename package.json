@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/matthewblu421/hs-stripe-app#readme",
   "dependencies": {
-    "ejs": "^3.1.8",
     "express": "^4.18.1",
     "stripe": "^10.0.0"
   },
